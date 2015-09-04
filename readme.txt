@@ -19,4 +19,5 @@ creat a new branch is quick
 createing is new branc is quick & simple
 
 creat a new branch is quick  and simple 
->>>>>>> feature1
+
+switched to a new branch 'dev'
